@@ -24,7 +24,7 @@ const Navbar = () => {
         <a
           href="https://github.com/hilarioz"
           className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0">
-          <img src="./git.png" height={60} width={60}></img>
+          <img src="./git.png" height={60} width={60} alt="GitHub"></img>
           <ArrowRightIcon className="w-4 h-4 ml-1" />
         </a>
       </div>
