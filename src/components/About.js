@@ -10,7 +10,7 @@ const About = () => {
             <br className="hidden lg:inline-block" />
           </h1>
           <p className="mb-8 leading-relaxed">
-            I'm a junior developer searching for my first job experience. In this portfolio I show my projects, my colaborations, my works and interests.
+            I'm a junior developer searching for my first job experience. In this portfolio I show my projects, my collaborations, my works and interests.
           </p>
           <div className="flex justify-center">
             <a
