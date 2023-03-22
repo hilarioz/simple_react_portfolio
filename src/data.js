@@ -1,31 +1,31 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "CRUD",
+    subtitle: "TKinter - Python - SQLite3",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
+      "Un gestor de registros básico creado con Python y la herramienta gráfica TKinter. Crea, lee, busca, actualiza y elimina registros, en este caso, de alumnos de una institución.",
+    image: "./tkinter.png",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Ejemplo 2",
+    subtitle: "Tecnologías",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
+      "Descripción ejemplo 2",
+    image: "coding.png",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Ejemplo 3",
+    subtitle: "Tecnologías",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
+      "Descripción ejemplo 3",
+    image: "coding.png",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Ejemplo 4",
+    subtitle: "Tecnologías",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
+      "Descripción ejemplo 4",
+    image: "coding.png",
   },
 ];
 
